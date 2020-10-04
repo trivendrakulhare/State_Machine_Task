@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>3944E9AD-B1F0-44F1-BCE8-D83B5DC6D263</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>3944E9AD-B1F0-44F1-BCE8-D83B5DC6D263.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>StateMachine project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>StateMachine</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run StateMachine</string>
+			<key>timeStartedRecording</key>
+			<real>623523928.15337801</real>
+			<key>timeStoppedRecording</key>
+			<real>623523935.709777</real>
+			<key>title</key>
+			<string>Run StateMachine</string>
+			<key>uniqueIdentifier</key>
+			<string>3944E9AD-B1F0-44F1-BCE8-D83B5DC6D263</string>
+		</dict>
+		<key>6306D40F-5C07-4807-95D8-7538930B74EA</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>6306D40F-5C07-4807-95D8-7538930B74EA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>StateMachine project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>StateMachine</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run StateMachine</string>
+			<key>timeStartedRecording</key>
+			<real>623516171.86643398</real>
+			<key>timeStoppedRecording</key>
+			<real>623516177.41587996</real>
+			<key>title</key>
+			<string>Run StateMachine</string>
+			<key>uniqueIdentifier</key>
+			<string>6306D40F-5C07-4807-95D8-7538930B74EA</string>
+		</dict>
+		<key>E84492EC-2DA1-4A79-B7EF-B0FF3C859BC3</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>E84492EC-2DA1-4A79-B7EF-B0FF3C859BC3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>StateMachine project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>StateMachine</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run StateMachine</string>
+			<key>timeStartedRecording</key>
+			<real>623525155.63032901</real>
+			<key>timeStoppedRecording</key>
+			<real>623525159.00581801</real>
+			<key>title</key>
+			<string>Run StateMachine</string>
+			<key>uniqueIdentifier</key>
+			<string>E84492EC-2DA1-4A79-B7EF-B0FF3C859BC3</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
